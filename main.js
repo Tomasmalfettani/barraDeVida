@@ -3,7 +3,7 @@ const barraDeVida1 = document.getElementById("bdv").style.width // !!!!
 const container = document.querySelector(".container-fluid");
 
 let barraDeVida = 100;
-let barraDeVida2 = 341; // !!!!
+let barraDeVida2 = 340; // !!!!
 
 container.addEventListener("click", (e) => {
     
